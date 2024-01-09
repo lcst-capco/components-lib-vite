@@ -1,6 +1,5 @@
-# React + TypeScript + Vite
-## components-lib-vite
-A component library which uses React  + TypeScript + Vite template.
+# components-lib-vite
+A component library which uses **React  + TypeScript + Vite** template.
 
 
 ### Storybook
