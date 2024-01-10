@@ -7,7 +7,7 @@ type ButtonProps = {
 
 export function Button({
     label,
-    backgroundColor = 'white',
+    backgroundColor = '#06b6d4',
     size = 'md',
     onClick,
 }: ButtonProps) {
@@ -24,6 +24,7 @@ export function Button({
 
     return (
         <button
+            className={`text-sm text-white`}
             style={style}
             onClick={onClick}
         >
